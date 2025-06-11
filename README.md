@@ -31,6 +31,11 @@ I'm a passionate front-end developer who loves crafting beautiful interfaces and
 A utility to help users manage and organize wallet addresses with ease.  
 *Building tools that empower users and enhance Web3 experience!*
 
+**Easy Ticketing App:**
+A Platform where users can explore events around them with ease,
+also help users get Events Ticket instantly by making payment within the app or book free events.
+**Find and book tickets for amazing local & vitual events with ease. No hassle. Just fun!**
+
 ---
 
 ## 📜 Certifications
