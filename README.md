@@ -38,6 +38,8 @@ also help users get Events Ticket instantly by making payment within the app or 
 **Find and book tickets for amazing local & vitual events with ease. No hassle. Just fun!**
 
 **Event Scheduler Telegram bot:**
+A utility that help create, manage, and track events effortlessly within telegram.
+**Stay organized and connected and attending effortlessly**
 
 ---
 
