@@ -37,6 +37,8 @@ A Platform where users can explore events around them with ease,
 also help users get Events Ticket instantly by making payment within the app or book free events.
 **Find and book tickets for amazing local & vitual events with ease. No hassle. Just fun!**
 
+**Event Scheduler Telegram bot:**
+
 ---
 
 ## 📜 Certifications
